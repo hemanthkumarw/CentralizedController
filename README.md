@@ -4,13 +4,13 @@
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Snapshots](#snapshots)
+* [Snapshot](#snapshots)
 * [Contact](#contact)
 
 ## Technologies
 * Technologies - Java, JSP, MySQL, HTML5, CSS3, JavaScript
 
-## Snapshots
+## Snapshot
 ![Example snapshot](./snapshot/cc1.png)
 ![Example snapshot](./snapshot/cc2.png) 
 ![Example snapshot](./snapshot/cc3.png) 
